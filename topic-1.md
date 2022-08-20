@@ -1,3 +1,3 @@
-[README](ReadMe.md)
+[README](README.md)
 
 Another MD file.
