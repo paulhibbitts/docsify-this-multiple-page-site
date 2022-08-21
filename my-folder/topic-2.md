@@ -1,3 +1,5 @@
-[README](/README.md)
+[Home](/README.md)
 
-Another MD file (topic-2).
+**Topic 2**. 
+
+And here is another MD file, located in a sub-folder.
