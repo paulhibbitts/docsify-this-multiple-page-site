@@ -1,5 +1,7 @@
 [Home](README.md)
 
-**Topic 1**. 
+![](images/christopher-burns-Kj2SaNHG-hg-unsplash.jpg ':class=banner-image')
+
+**Topic 1**.
 
 Here is another Markdown file.
