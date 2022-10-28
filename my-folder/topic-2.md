@@ -1,6 +1,6 @@
 [Home](/README.md)
 
-![](/images/andrew-pons-6-RhsUzKO6g-unsplash.jpg ':class=banner-image')
+![](../images/andrew-pons-6-RhsUzKO6g-unsplash.jpg ':class=banner-image')
 
 **Topic 2**.
 
