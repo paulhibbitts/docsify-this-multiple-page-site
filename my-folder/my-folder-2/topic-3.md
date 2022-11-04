@@ -1,6 +1,6 @@
 [Home](README.md)
 
-![](/images/christopher-burns-Kj2SaNHG-hg-unsplash.jpg ':class=banner-image')
+![](https://raw.githubusercontent.com/paulhibbitts/my-hack-md/main/images/christopher-burns-Kj2SaNHG-hg-unsplash.jpg ':class=banner-image')
 
 **Topic 1**.
 
