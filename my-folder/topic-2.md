@@ -5,3 +5,7 @@
 **Topic 2**.
 
 And here is another MD file, located in a sub-folder.
+
+Go to [topic-1](topic-1.md)
+
+Go to [topic-3](/my-folder/my-folder-2/topic-3.md)
