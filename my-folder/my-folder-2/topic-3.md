@@ -4,7 +4,7 @@
 
 **Topic 3**.
 
-And yet here is another MD file, located in a sub-folder within a sub-folder.
+And yet here is some more sample **Markdown** content.  
 
 Go to [topic-1](/topic-1.md)
 
