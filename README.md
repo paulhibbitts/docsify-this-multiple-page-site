@@ -1,13 +1,3 @@
----
-key: value
-key2: value2
-key3: [one, two, three]
-key4:
-- four
-- five
-- six
----
-
 # Home
 
 ![](images/mountain.jpg ':class=banner-image')
