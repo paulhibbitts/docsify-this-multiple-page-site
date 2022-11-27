@@ -4,4 +4,4 @@
 
 ![](images/christopher-burns-Kj2SaNHG-hg-unsplash.jpg ':class=banner-image')
 
-Here is some more sample **Markdown** content.  
+Here is some more sample **Markdown** content.
