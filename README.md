@@ -30,5 +30,5 @@ Docsify-This Examples
 ---
 
 [Docsify This Multiple Page Site Template](https://github.com/paulhibbitts/docsify-this-multiple-page-site), displayed by Docsify-This as a:  
-* [Standalone Web Site](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/markdown-files-test/main#/ "Standalone Web Site")  
+* [Standalone Web Site and an 'Edit this Page' links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/markdown-files-test/main&edit-link=https://github.com/paulhibbitts/docsify-this-multiple-page-site/blob/main/home.md "Standalone Web Site")  
 * [Standalone Web Site with Docsify Navbar](https://paulhibbitts.github.io/test-docsify-this/?basePath=https://raw.githubusercontent.com/paulhibbitts/my-hack-md/main&homepage=home.md&loadNavbar=_navbar "Standalone Web Site with Docsify Navbar")
