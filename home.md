@@ -1,6 +1,6 @@
 # Home
 
-![](images/mountain.jpg ':class=banner-image')
+![](images/mountain.jpg ':class=header-image-full-width')
 
 Here is some sample **Markdown** content.  
 
