@@ -1,6 +1,6 @@
-# Home
+![Photo of Mountain](images/mountain.jpg ':class=header-image-fade')
 
-![](images/mountain.jpg ':class=banner-image')
+# Home
 
 Here is some sample **Markdown** content.  
 
