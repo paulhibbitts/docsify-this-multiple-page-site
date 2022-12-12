@@ -1,8 +1,8 @@
+![](images/andrew-pons-6-RhsUzKO6g-unsplash-cropped.jpg ':class=header-image-full-width')
+
 [←Home](home.md)
 
 # Topic 2
-
-![](images/andrew-pons-6-RhsUzKO6g-unsplash-cropped.jpg ':class=banner-image')
 
 And here is some more sample **Markdown** content.  
 

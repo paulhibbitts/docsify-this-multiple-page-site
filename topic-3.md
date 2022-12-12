@@ -1,8 +1,8 @@
+![](images/christopher-burns-Kj2SaNHG-hg-unsplash-cropped.jpg ':class=header-image-full-width')
+
 [←Home](home.md)
 
 # Topic 3
-
-![](images/christopher-burns-Kj2SaNHG-hg-unsplash-cropped.jpg ':class=banner-image')
 
 And yet here is some more sample **Markdown** content.  
 
