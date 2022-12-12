@@ -1,4 +1,4 @@
-![](images/christopher-burns-Kj2SaNHG-hg-unsplash-cropped.jpg ':class=header-image-full-width')
+![](images/chase-moyer-730496-unsplash-cropped.jpg ':class=header-image-full-width')
 
 [←Home](home.md)
 
