@@ -1,6 +1,6 @@
 # Home
 
-![](images/mountain.jpg ':class=header-image-fading')
+![](images/mountain.jpg ':class=banner-image')
 
 Here is some sample **Markdown** content.  
 
