@@ -1,6 +1,6 @@
-# Home
-
 ![](images/mountain.jpg ':class=header-image-full-width')
+
+# Home
 
 Here is some sample **Markdown** content.  
 
