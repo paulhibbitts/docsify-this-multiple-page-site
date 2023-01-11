@@ -1,4 +1,4 @@
-![](images/christopher-burns-Kj2SaNHG-hg-unsplash-cropped.jpg ':class=header-image-full-width' ':loading=lazy')
+![](images/christopher-burns-Kj2SaNHG-hg-unsplash-cropped.jpg ':class=header-image-full-width :loading=lazy')
 
 [←Home](home.md)
 
