@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main/images/mountain-cropped.jpg" alt="" class="header-image-full-width" loading="lazy">
+![](images/mountain-cropped.jpg ':class=header-image-full-width')
 
 # Home
 

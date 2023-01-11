@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main/images/chase-moyer-730496-unsplash-cropped.jpg" alt="" class="header-image-full-width" loading="lazy">
+![](images/chase-moyer-730496-unsplash-cropped.jpg ':class=header-image-full-width')
 
 [←Home](home.md)
 
