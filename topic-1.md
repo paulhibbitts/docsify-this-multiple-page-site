@@ -1,4 +1,4 @@
-![](images/christopher-burns-Kj2SaNHG-hg-unsplash-cropped.jpg ':class=header-image-full-width :loading=lazy')
+<img src="https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main/images/christopher-burns-Kj2SaNHG-hg-unsplash-cropped.jpg" alt="" class="header-image-full-width" loading="lazy">
 
 [←Home](home.md)
 
