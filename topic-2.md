@@ -1,4 +1,4 @@
-![](images/andrew-pons-6-RhsUzKO6g-unsplash-cropped.jpg ':class=header-image-full-width')
+<img src="https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main/images/andrew-pons-6-RhsUzKO6g-unsplash-cropped.jpg" alt="" class="header-image-full-width" loading="lazy">
 
 [←Home](home.md)
 
