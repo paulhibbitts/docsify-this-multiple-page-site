@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis 
 </div>
 <div class="column">
 
-![Mountain](images/chase-moyer-730496-unsplash-portrait.jpg)  
+![Mountain](images/chase-moyer-730496-unsplash-portrait.jpg  ':size=10%')  
 
 </div>
 </div>
