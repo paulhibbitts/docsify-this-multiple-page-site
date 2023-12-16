@@ -11,7 +11,6 @@ Lorem **ipsum** _dolor_ sit amet, consectetur adipiscing elit. Fusce molestie ia
 ![The Markdown Mark](images/markdown-red.png)  
 _Figure 1: The Markdown Mark_  
 
-
 Go to [topic-2](topic-2.md)
 
 Go to [topic-3](topic-3.md)
