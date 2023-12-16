@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis 
 </div>
 
 
-And here is yet some more sample **Markdown** content, including using two columns with text and and image.
+And here is yet some more sample **Markdown** content, including using two columns with text and an image.
 
 <div class="row">
 <div class="column">
