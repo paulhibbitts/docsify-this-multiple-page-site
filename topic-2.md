@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis 
 </div>
 <div class="column">
 
-![Portrait Placeholder](images/Portrait_Placeholder.png ':size=50%')
+![Portrait Placeholder](chase-moyer-730496-unsplash.jpg ':size=50%')
 
 </div>
 </div>
