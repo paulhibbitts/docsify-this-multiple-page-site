@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis 
 </div>
 <div class="column">
 
-![](images/Portrait_Placeholder.png)
+![Portrait Placeholder](images/Portrait_Placeholder.png)
 
 </div>
 </div>
