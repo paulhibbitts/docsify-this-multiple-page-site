@@ -30,7 +30,7 @@ Lorem **ipsum** _dolor_ sit amet, consectetur adipiscing elit. Fusce molestie ia
 </div>
 <div class="column">
 
-![Mountain](images/chase-moyer-730496-unsplash-portrait.jpg  ':size=65%')  
+![Mountain](images/chase-moyer-730496-unsplash-portrait.jpg  ':size=80%')  
 
 </div>
 </div>
