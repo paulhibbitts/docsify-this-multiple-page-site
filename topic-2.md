@@ -46,8 +46,8 @@ And here is an embedded YouTube video using an iFrame, which is automatically ma
 And finally here is embedding the same YouTube video using Markdown where a preview graphic is shown and when tapped will go to the source YouTube page.  
 
 [![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/lJIrF4YjHfQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=lJIrF4YjHfQ)
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
 
 
 Go to [topic-1](topic-1.md)
