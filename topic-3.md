@@ -41,7 +41,6 @@ This is some text.
 - List item B-1
 - List item B-2
 
-
 #### **Tab C**
 
 ### Heading for Tab C
