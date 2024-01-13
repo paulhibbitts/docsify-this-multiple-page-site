@@ -1,4 +1,4 @@
-![](images/mountain-cropped.jpg ':class=header-image-full-width')
+![](images/mountain-cropped.jpg ':class=header-image-full-width-tall')
 
 # Home
 
