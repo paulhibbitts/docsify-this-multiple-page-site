@@ -39,6 +39,23 @@ Lorem **ipsum** _dolor_ sit amet, consectetur adipiscing elit. Fusce molestie ia
 </div>
 </div>
 
+And now here is some more sample **Markdown** content, including using two columns with two random images that are also suitable for use as Zoom Images.
+
+<div class="row">
+<div class="column">
+
+![Example Photo](richard-main-oKu7lNQUDmI-unsplash.jpg  ':size=80%')  
+_Photo 1_
+
+</div>
+<div class="column">
+
+![Example Photo](christine-donaldson-BjBkbIa-Io8-unsplash.jpg  ':size=80%')  
+_Photo 2_  
+
+</div>
+</div>
+
 And here is embedding the a YouTube video using Markdown where an automatically generated preview graphic is shown and when tapped will go to the source YouTube page.  
 
 [![Embed videos and playlists](https://img.youtube.com/vi/lJIrF4YjHfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=lJIrF4YjHfQ)  
