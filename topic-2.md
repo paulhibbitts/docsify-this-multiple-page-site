@@ -50,7 +50,6 @@ _Photo 1_
 [![Example Photo](images/richard-main-oKu7lNQUDmI-unsplash.jpg  ':size=80%')](topic-3.md)  
 _Photo 1_
 
-
 </div>
 <div class="column">
 
