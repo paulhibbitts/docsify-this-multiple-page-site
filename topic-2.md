@@ -44,13 +44,13 @@ And now here is some more sample **Markdown** content, including using two colum
 <div class="row">
 <div class="column">
 
-![Example Photo](richard-main-oKu7lNQUDmI-unsplash.jpg  ':size=80%')  
+![Example Photo](images/richard-main-oKu7lNQUDmI-unsplash.jpg  ':size=80%')  
 _Photo 1_
 
 </div>
 <div class="column">
 
-![Example Photo](christine-donaldson-BjBkbIa-Io8-unsplash.jpg  ':size=80%')  
+![Example Photo](images/christine-donaldson-BjBkbIa-Io8-unsplash.jpg  ':size=80%')  
 _Photo 2_  
 
 </div>
