@@ -19,6 +19,7 @@ Lorem **ipsum** _dolor_ sit amet, consectetur adipiscing elit. Fusce molestie ia
 </div>
 </div>
 
+
 And here is yet some more sample **Markdown** content, including using two columns with text and an image.
 
 <div class="row">
@@ -35,26 +36,6 @@ Lorem **ipsum** _dolor_ sit amet, consectetur adipiscing elit. Fusce molestie ia
 <div class="column">
 
 ![Mountain](images/chase-moyer-730496-unsplash-portrait.jpg  ':size=80%')  
-
-</div>
-</div>
-
-And now here is some more sample **Markdown** content, including using two columns with two random images that are also suitable for use as Zoom Images.
-
-<div class="row">
-<div class="column">
-
-![Example Photo](images/richard-main-oKu7lNQUDmI-unsplash.jpg  ':size=80%')  
-_Photo 1_
-
-[![Example Photo](images/richard-main-oKu7lNQUDmI-unsplash.jpg  ':size=80%')](topic-3.md)  
-_Photo 1_
-
-</div>
-<div class="column">
-
-![Example Photo](images/christine-donaldson-BjBkbIa-Io8-unsplash.jpg  ':size=80%')  
-_Photo 2_  
 
 </div>
 </div>
